@@ -22,6 +22,8 @@ class Development(Config):
 
     HANDLER = "."  # Custom Command Handler
 
+    LOGGER_ID = "-1001722364565"
+
     SUDO_HANDLER = "!"  # Custom Command Handler for sudo users.
 
 
